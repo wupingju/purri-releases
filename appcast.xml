@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Purri Updates</title>
+    <link>https://raw.githubusercontent.com/wupingju/purri-releases/main/appcast.xml</link>
+    <description>Purri app updates</description>
+    <language>zh-Hant</language>
+    <item>
+      <title>Version 0.1.0-rc1</title>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-rc1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 16 Feb 2026 15:15:32 +0000</pubDate>
+      <enclosure url="https://github.com/wupingju/purri-releases/releases/download/v0.1.0-rc1/Purri-0.1.0-rc1.dmg" sparkle:version="11" sparkle:shortVersionString="0.1.0-rc1" length="7838190" type="application/octet-stream" sparkle:edSignature="4YljZO0DuSqC5J11Or37k1P5YXxlRcla8ZpNORIUjMVmqhPs8312VzDogOg2l4Y6tJu71OGkIHEbKwSUcvJQBw==" />
+      <description><![CDATA[<h2>Version 0.1.0-rc1</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+    </item>
+  </channel>
+</rss>
