@@ -12,7 +12,12 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sat, 21 Feb 2026 10:37:58 +0000</pubDate>
       <enclosure url="https://github.com/wupingju/purri-releases/releases/download/v0.1.0/Purri-0.1.0.dmg" sparkle:version="15" sparkle:shortVersionString="0.1.0" length="7858364" type="application/octet-stream" sparkle:edSignature="39LdbmMc/M8u8zCBR8AGzY4MHx7rO2tj+VUc2PCX4zGde4SncAQed71LqwfS9hVvkikgdIZd9UlQWH1351RtDA==" />
-      <description><![CDATA[<h2>Version 0.1.0</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+      <description><![CDATA[
+<h2>Version 0.1.0</h2>
+<ul>
+<li>正式上線，若有任何問題或回饋，歡迎聯絡 pj@purri.app</li>
+</ul>
+]]></description>
     </item>
   </channel>
 </rss>
