@@ -55,12 +55,24 @@
 - 每月 token 用量與估計費用一目瞭然
 - 按月瀏覽歷史用量
 
+### 多模型支援
+
+可自由選擇語音轉錄與文字潤飾的 AI 模型，依需求切換。
+
+| 用途 | 模型 | 特色 |
+|------|------|------|
+| 語音轉錄 | OpenAI gpt-4o-transcribe | 相容性最佳 |
+| 語音轉錄 | Groq whisper-large-v3-turbo | 速度快、費用低 |
+| 文字潤飾 | OpenAI GPT-5 mini | 品質最佳 |
+| 文字潤飾 | Google Gemini 2.5 Flash-Lite | 速度最快、費用最低 |
+
 ### 自帶 API Key
 
-使用你自己的 OpenAI API Key，沒有訂閱費、沒有中間商。
+使用你自己的 API Key，沒有訂閱費、沒有中間商。
 
+- 支援 OpenAI、Groq、Google AI 三家 API Key
 - API Key 安全儲存在 macOS Keychain
-- 語音只傳送到 OpenAI 處理，不經過任何第三方伺服器
+- 語音與文字只傳送到你所選擇的 AI 服務，不經過任何第三方伺服器
 - 你完全掌控自己的資料與費用
 
 ---
@@ -75,7 +87,7 @@
 
 - macOS 14.0 (Sonoma) 或更新版本
 - Apple Silicon 或 Intel Mac
-- OpenAI API Key（[在這裡取得](https://platform.openai.com/api-keys)）
+- 至少一組 API Key：[OpenAI](https://platform.openai.com/api-keys)、[Groq](https://console.groq.com/keys)、[Google AI](https://aistudio.google.com/apikey)
 
 ### 首次啟動
 
@@ -103,13 +115,13 @@ Purri 以隱私為核心設計原則：
 
 | 項目 | Purri 的做法 |
 |------|-------------|
-| **語音資料** | 僅傳送至 OpenAI API，不經過其他伺服器 |
+| **語音資料** | 僅傳送至你所選擇的 AI 服務（OpenAI / Groq / Google AI），不經過其他伺服器 |
 | **API Key** | 儲存在 macOS Keychain，不會上傳到其他任何地方 |
 | **需要帳號** | 否 |
 | **分析/追蹤** | 無 |
 | **第三方伺服器** | 無 |
 
-你的語音和文字資料只會在你的電腦和 OpenAI 之間傳輸，Purri 不會收集或儲存任何資料。
+你的語音和文字資料只會在你的電腦和你選擇的 AI 服務之間傳輸，Purri 不會收集或儲存任何資料。
 
 ---
 

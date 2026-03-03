@@ -12,7 +12,13 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Tue, 03 Mar 2026 09:45:10 +0000</pubDate>
       <enclosure url="https://github.com/wupingju/purri-releases/releases/download/v0.2.0/Purri-0.2.0.dmg" sparkle:version="16" sparkle:shortVersionString="0.2.0" length="7982013" type="application/octet-stream" sparkle:edSignature="dLMGe62YzjvW1oZUrk/LsUQ5mf0djorVnvFq5DCbGh+klW5CN0m+n49wdwdusmZwz00GuzEsDIMEzDg9yx8WAA==" />
-      <description><![CDATA[<h2>Version 0.2.0</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+      <description><![CDATA[<h2>Version 0.2.0</h2>
+<ul>
+<li>支援多家 AI 服務：語音轉錄可選 Groq (whisper-large-v3-turbo)，文字潤飾可選 Google Gemini (gemini-2.5-flash-lite)</li>
+<li>模型設定頁面全新設計，每個模型附特色描述與定價資訊</li>
+<li>歷史紀錄顯示使用的轉錄/潤飾模型及總處理時間，方便比較效果</li>
+<li>改善 API 錯誤訊息，顯示實際原因（如餘額不足、超過速率限制）</li>
+</ul>]]></description>
     </item>
   </channel>
 </rss>
