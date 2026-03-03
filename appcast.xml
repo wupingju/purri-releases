@@ -6,18 +6,13 @@
     <description>Purri app updates</description>
     <language>zh-Hant</language>
     <item>
-      <title>Version 0.1.0</title>
-      <sparkle:version>15</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <title>Version 0.2.0</title>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sat, 21 Feb 2026 10:37:58 +0000</pubDate>
-      <enclosure url="https://github.com/wupingju/purri-releases/releases/download/v0.1.0/Purri-0.1.0.dmg" sparkle:version="15" sparkle:shortVersionString="0.1.0" length="7858364" type="application/octet-stream" sparkle:edSignature="39LdbmMc/M8u8zCBR8AGzY4MHx7rO2tj+VUc2PCX4zGde4SncAQed71LqwfS9hVvkikgdIZd9UlQWH1351RtDA==" />
-      <description><![CDATA[
-<h2>Version 0.1.0</h2>
-<ul>
-<li>正式上線，若有任何問題或回饋，歡迎聯絡 pj@purri.app</li>
-</ul>
-]]></description>
+      <pubDate>Tue, 03 Mar 2026 09:45:10 +0000</pubDate>
+      <enclosure url="https://github.com/wupingju/purri-releases/releases/download/v0.2.0/Purri-0.2.0.dmg" sparkle:version="16" sparkle:shortVersionString="0.2.0" length="7982013" type="application/octet-stream" sparkle:edSignature="dLMGe62YzjvW1oZUrk/LsUQ5mf0djorVnvFq5DCbGh+klW5CN0m+n49wdwdusmZwz00GuzEsDIMEzDg9yx8WAA==" />
+      <description><![CDATA[<h2>Version 0.2.0</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
     </item>
   </channel>
 </rss>
